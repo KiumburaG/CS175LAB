@@ -5,3 +5,4 @@
 print('My name is: Kiumbura Githinji')
 print('My address is: 45 Merrit Ave, Bergenfield, NJ 07621')
 print('My phone number is: 123-456-9877')
+print('My college major is: Computer Science and Software Engineering')
